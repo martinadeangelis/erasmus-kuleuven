@@ -6,7 +6,7 @@ This project implements an autonomous navigation and docking system for a servic
 
 ## 🎬 Video Demonstration
 Watch the robot successfully executing the autonomous docking maneuver on LinkedIn:
-**👉 [video link]**
+**👉 https://lnkd.in/p/e-eiS2KUhttps://lnkd.in/p/e-eiS2KUhttps://lnkd.in/p/e-eiS2KU**
 
 ## 📝 Specifications and Design Requirements
 *   **Navigation:** Maximum wall-following speed of $v_{max}=0.5\ \text{m/s}$.
